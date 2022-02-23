@@ -7,4 +7,4 @@ Basta compilar e adicionar na pasta de filterscripts do servidor, e adicionar Fu
 
 Observação:
 
-Para compilar é necessário o include TickDifference, você pode obtê-lo aqui: https://github.com/ScavengeSurvive/tick-difference
+Para compilar é necessária a include TickDifference, você pode obtê-la aqui: https://github.com/ScavengeSurvive/tick-difference
